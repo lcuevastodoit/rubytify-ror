@@ -2,10 +2,10 @@
 ## Rubitify modified by LC
 ### Fork of the Rubitify repository at: https://github.com/AyendaRooms/test
 
-###Installation
+### Installation
 Just clone the repository or fork it
 
-###Loading Data
+### Loading Data
 <p>Automatically rake will be loading the database in the first run. So the web page will be rejecteing connection during that time. This proccess will be last about 8 minutes.</p>
 </p>After database is full loades then you can call the endpoints with the browser or postman</p>
 
