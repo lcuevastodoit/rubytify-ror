@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2021_12_06_221514) do
     t.string "spotify_url"
     t.string "total_tracks"
     t.string "spotify_id"
+    t.integer "artist_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -43,6 +44,7 @@ ActiveRecord::Schema.define(version: 2021_12_06_221514) do
     t.string "duration_ms"
     t.string "explicit"
     t.string "spotify_id"
+    t.integer "album_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
