@@ -1,6 +1,6 @@
 # Rubitify Fork
 ## Rubitify modified by LC
-### Fork of the Rubitify repository at: https://github.com/AyendaRooms/test
+### Fork of the Rubytify repository at: https://github.com/AyendaRooms/test
 
 ### Installation
 Just clone the repository or fork it
